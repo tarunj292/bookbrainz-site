@@ -20,9 +20,9 @@
 		"debug": false,
 		"connection": {
 			"host": "localhost",
-			"database": "bookbrainz_test",
+			"database": "bookbrainz",
 			"user": "postgres",
-			"password": "postgres"
+			"password": "Nurat25##"
 		}
 	},
 	"search": {
